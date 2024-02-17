@@ -9,6 +9,9 @@
 # 🏆 Views Count:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirimran&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulQadirImran" /> </p>
 
+# 🏆 Previous Account Views Count:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirazam&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulQadirazam" /> </p>
+
 <br>
 
 # 🔗 Social Media
