@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Web Development || Web Designing**
 
-- 📫 How to reach me **abdulqadirimran@gmail.com**
+- 📫 How to reach me **abdulqadirimran01@gmail.com**
 
 - 📝 Learn about me [Resume](https://abdulqadirazam-resume.tiiny.site/)
 
