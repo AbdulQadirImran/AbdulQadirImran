@@ -9,9 +9,6 @@
 # 🏆 Views Count:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirimran&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulQadirImran" /> </p>
 
-# 🏆 Previous Account Views Count:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirazam&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulQadirazam" /> </p>
-
 <br>
 
 # 🔗 Social Media
@@ -33,7 +30,7 @@
 
 - 📫 How to reach me **abdulqadirimran01@gmail.com**
 
-- 📝 Learn about me [Resume](https://abdulqadirazam-resume.tiiny.site/)
+- 📝 Learn about me [Resume](https://abdulqadirimran.tiiny.site/)
 
 - ⚡ Fun fact **From debugging in the dazzling city of Karachi to optimizing code in the serene landscapes of all over Pakistan, his coding adventures prove that talent knows no boundaries – not even geographical ones!**
   
