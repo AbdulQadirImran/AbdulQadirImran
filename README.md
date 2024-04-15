@@ -73,10 +73,5 @@
 
 <br>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/AbdulQadirImran.svg)](https://user-badge.committers.top/pakistan/AbdulQadirImran)
-
-[![committers.top badge](https://user-badge.committers.top/pakistan_public/AbdulQadirImran.svg)](https://user-badge.committers.top/pakistan_public/AbdulQadirImran)
-
-<br>
 
 ---
