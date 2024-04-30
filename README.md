@@ -4,6 +4,15 @@
 
 </h3>
 
+<!-- header image -->
+
+<h3 align="center">
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AbdulQadirImran&data=followers,repositories,stars,commits&theme=dark&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+
+</h3>
+
+
 <p align="center">
   <img height="150" width="150" src="left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirImran&theme=dark&hide_border=true"/>
@@ -22,25 +31,25 @@
 <h4 align="center">
   
 ```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+         o o                                           
+         | |                                           
+        _L_L_                                          
+     ❮\/__-__\/❯ Programming isn't about what you know 
+     ❮(|~o.o~|)❯  It's about what you can figure out   
+     ❮/ \`-'/ \❯                                       
+       _/`U'\_                                         
+      ( .   . )     .----------------------------.     
+     / /     \ \    | while( ! (succeed=try() ) ) |     
+     \ |  ,  | /    '----------------------------'     
+      \|=====|/                                        
+       |_.^._|                                         
+       | |"| |                                         
+       ( ) ( )   Testing leads to failure              
+       |_| |_|   and failure leads to understanding    
+   _.-' _j L_ '-._                                     
+  (___.'     '.___)                                    
+
 ```
 
 </h4>
