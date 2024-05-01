@@ -8,34 +8,42 @@
 
 <h3 align="center">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AbdulQadirImran&data=followers,repositories,stars,commits&theme=dark&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AbdulQadirImran&data=followers,repositories,stars,commits&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000)](https://github.com/Jurredr/github-widgetbox)
+
+![](https://komarev.com/ghpvc/?username=AbdulQadirImran&label=Profile%20Visits&color=orange&style=for-the-badge)
+
+<p dir="auto"><a href="https://www.instagram.com/abdulqadirpak" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://abdulqadirimran.netlify.app/#about_me" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&amp;logo=portfolio&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/abdulqadirimran/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
+
+![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=white)
 
 </h3>
 
+<br/>
 
 <p align="center">
-  <img height="150" width="150" src="left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirImran&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="right.webp"/>
+  <img height="50" width="50" src="left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirImran"/>
+  <img height="50" width="50" src="right.webp"/>
 </p>
 <br />
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulQadirImran&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulQadirImran&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+   <a href="https://github.com/AbdulQadirImran/github-readme-stats"><img alt="AbdulQadirImran's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AbdulQadirImran&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/AbdulQadirImran/github-readme-stats"><img alt="AbdulQadirImran's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbdulQadirImran&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
 </details>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AbdulQadirImran&theme=react-dark&hide_border=true&area=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdulQadirImran&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AbdulQadirimran&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
-<h3 align="center">
+<br/>
+<a href="https://github.com/AbdulQadirImran/github-readme-activity-graph"><img alt="AbdulQadirImran's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbdulQadirImran&bg_color=FFFFF&color=FFA500&line=000&point=FFFFFF&hide_border=true" /></a>
 
-  <img src="https://komarev.com/ghpvc/?username=abdulqadirimran&label=Profile%20views&color=0e75b6&style=dark" alt="AbdulQadirImran" /> 
+<br/>
 
-
-</h3>
-
-<h4 align="center">
+<h6 align="center">
   
 ```diff
 
@@ -59,7 +67,13 @@
 
 ```
 
-</h4>
+</h6>
+
+<h3 align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+</h3>
 
 <h3 align="center">
 
