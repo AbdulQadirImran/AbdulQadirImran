@@ -28,6 +28,13 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AbdulQadirImran&theme=react-dark&hide_border=true&area=true)
 
+<h3 align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=abdulqadirimran&label=Profile%20views&color=0e75b6&style=dark" alt="AbdulQadirImran" /> 
+
+
+</h3>
+
 <h4 align="center">
   
 ```diff
