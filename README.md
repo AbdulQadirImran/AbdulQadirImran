@@ -27,15 +27,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirImran"/>
   <img height="50" width="50" src="right.webp"/>
 </p>
-
-<br />
-
 <p align="center">
    <a href="https://github.com/AbdulQadirImran/github-readme-stats"><img alt="AbdulQadirImran's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AbdulQadirImran&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
    <a href="https://github.com/AbdulQadirImran/github-readme-stats"><img alt="AbdulQadirImran's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbdulQadirImran&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
-
-<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbdulQadirImran&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AbdulQadirimran&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 <a href="https://github.com/AbdulQadirImran/github-readme-activity-graph"><img alt="AbdulQadirImran's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbdulQadirImran&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
