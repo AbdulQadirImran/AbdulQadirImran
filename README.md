@@ -37,6 +37,12 @@
 
 <a href="https://github.com/AbdulQadirImran/github-readme-activity-graph"><img alt="AbdulQadirImran's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbdulQadirImran&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
 
+<h3 align="center">
+  
+<a href="https://stardev.io/developers/AbdulQadirImran"><img alt="Check out AbdulQadirImran's profile on stardev.io" src="https://stardev.io/developers/AbdulQadirImran/badge/languages/global.svg" /></a>
+
+</h3>
+
 <h6 align="center">
   
 ```diff
